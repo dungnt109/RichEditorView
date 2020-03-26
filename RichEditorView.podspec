@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'RichEditorView/*'
   s.resources = [
-      'RichEditorView/Assets/icons/*',
-      'RichEditorView/Assets/editor/*'
+      'RichEditorView/Resources/icons/*',
+      'RichEditorView/Resources/editor/*'
     ]
 end
