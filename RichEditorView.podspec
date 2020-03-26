@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/dungnt109/RichEditorView.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/cjwirth'
 
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '10.0'
   s.swift_version = '5.0'
   s.requires_arc = true
 
