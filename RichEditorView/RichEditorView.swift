@@ -352,7 +352,7 @@ public class RichEditorWebView: WKWebView {
     }
 
     public func insertVideo(video: String, isBase64: Bool=false) {
-//            // Remember, both poster and src can be base64 encoded
+            // Remember, both poster and src can be base64 encoded
 //            runJS("RE.prepareInsert()")
 //            var theJS: String
 //            if offline == true {
